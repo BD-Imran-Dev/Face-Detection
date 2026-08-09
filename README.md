@@ -59,7 +59,10 @@ Make sure you have Python installed along with the required libraries:
 ```bash
 # Termux Packages
 pkg update && pkg upgrade -y
-pkg install python opencv-python clang -y
+pkg install python3 -y
+pkg install clang -y
+pkg install opencv-python -y
+
 
 # Python Pip Libraries
 pip install numpy
