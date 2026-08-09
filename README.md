@@ -41,6 +41,21 @@
 ### ১. মূল ব্যানার
 ![Main Banner](images/main.jpg)
 
+### 2. Start Server & Launch HUD
+![Start Server](images/servers.jpg)
+
+### 3. LIVE REAL-TIME JSON STREAM
+![JSON STREAM](images/real-database.jpg)
+
+### 4. View Structured Box Log
+![Box Log](images/box-log.jpg)
+
+### 5. View Raw JSON Vault
+![View Raw JSO](images/JSON-view.jpg)
+
+### 6. 
+![live-action](images/live.jpg)
+
 ## 📂 প্রজেক্ট ফাইল স্ট্রাকচার (Project Structure)
 ```text
 Face-Detection/
